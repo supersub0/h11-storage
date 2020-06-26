@@ -1,0 +1,9 @@
+{
+    "name": "h11/storage",
+    "autoload": {
+        "psr-4": {
+            "Converter\\": "src/"
+        }
+    }
+}
+
