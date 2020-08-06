@@ -1,6 +1,6 @@
 <?php
 declare(strict_types=1);
-namespace Storage;
+namespace H11\Storage;
 
 interface AdapterIface
 {

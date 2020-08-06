@@ -1,7 +1,7 @@
 <?php
 declare(strict_types=1);
-namespace Storage;
-use \Iterator\MysqliResult;
+namespace H11\Storage;
+use H11\Iterator\MysqliResult;
 
 class ConnectorMysqli implements ConnectorIface
 {
