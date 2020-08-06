@@ -18,6 +18,11 @@
     ],
     "require": {
         "h11/iterator": "master@dev"
+    },
+    "scripts": {
+        "composer-install": [
+            "composer install"
+	]
     }
 }
 
